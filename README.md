@@ -2,3 +2,5 @@
 
 novy radek 
 toto je README pro zkouškový repozitář
+
+Nový řádek  
